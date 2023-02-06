@@ -1,4 +1,5 @@
 $enable-light-style: true;
+$enable-rtl-support: false;
 
 @mixin app-ltr($has-child: true) {
   @content;
