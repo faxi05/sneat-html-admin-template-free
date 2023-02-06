@@ -1,0 +1,11 @@
+
+// Override font path
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('../fonts/sourcesanspro-regular-webfont.woff2') format('woff2'),
+         url('../sourcesanspro-regular-webfont.woff') format('woff'),
+         url('../sourcesanspro-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
